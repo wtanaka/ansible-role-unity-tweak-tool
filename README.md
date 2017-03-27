@@ -4,7 +4,7 @@
 wtanaka.unity-tweak-tool
 ========================
 
-Installs unity-tweak-tool
+Installs unity-tweak-tool on Ubuntu
 
 Example Playbook
 ----------------
